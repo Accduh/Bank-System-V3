@@ -84,18 +84,14 @@ This project is designed to practice and improve skills in:
 ## File Format
 
 **Clients.txt**  
-
 AccountNumber#//#PinCode#//#Name#//#Phone#//#AccountBalance
 
-**Example:**  
-
-A150#//#1234#//#Abdulrahman Ramadan#//#01128663647#//#111.000000
+**Example:**  A150#//#1234#//#Abdulrahman Ramadan#//#01128663647#//#111.000000
 
 **Users.txt**  
-
 UserName#//#Password#//#Permissions
 
-Admin#//#1234#//#-1
+**Example:**  Admin#//#1234#//#-1
 
 Permissions are stored as integers representing access rights.
 
